@@ -2,7 +2,7 @@
 Crear una ALU con verilog
 
 //Practica 1: ALU
-Enero 22, 2021
+//Enero 22, 2021
 
 module Practica1(
 	input [3:0] iA,
